@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center; 
+    background-color: #fafafa; 
+    margin-left: 15px;
+    margin-right: 15px; 
+}
+
+span {
+    font-weight: bold;
+}
+
+a {
+    background-color: yellow;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    border-radius: 20px;
+    border: 10px solid yellow;
+    margin-bottom: 250px;
+}
+
+hr {
+    margin: 25px;
+}
+
+.img2 {
+    height: 300px;
+    width: 300px;
+}
+
+.img3 {
+    height: 300px;
+    width: 350px;
+}
